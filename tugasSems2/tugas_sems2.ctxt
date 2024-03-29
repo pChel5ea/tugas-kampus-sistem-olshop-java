@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=tugas_sems2
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=username\ password
+comment2.target=boolean\ verifyLogin(java.lang.String,\ java.lang.String)
+comment3.params=barang\ harga
+comment3.target=void\ buy(java.lang.String,\ int)
+comment4.params=
+comment4.target=void\ cls()
+numComments=5
